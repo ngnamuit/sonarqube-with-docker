@@ -54,5 +54,5 @@ sonar/bin/sonar-scanner -Dproject.settings=sonar-project.properties -X
 
 
 
-*** If you have any issue or concert, please help to leave a comment on issue tab and I will check and resolve it if I can ****
-#Thanks and good luck, guys!
+##### *** If you have any issue or concert, please help to leave a comment on issue tab and I will check and resolve it if I can ****
+###Thanks and good luck, guys!
